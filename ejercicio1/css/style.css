@@ -1,0 +1,38 @@
+#contenedor
+{
+	margin: 0 auto;
+	width: 45%;
+	height: 40%;
+	padding-top: 10%;
+}
+#titulo
+{
+	background: #33bebe;
+	color: white;
+	padding-top:  7%;
+	padding-left: 4%;
+	font: 220% "Arial";
+}
+#contenido
+{
+	display: flex;
+	font: 115% "Arial";
+	padding-top: 30px;
+}
+#imagen
+{
+	flex: 1 2 30%;
+	order: 1;
+}
+#texto
+{
+	padding-left: 20px;
+	flex: 1 2 70%;
+	order: 1;
+	color: #7C8B88;	
+}
+#texto p
+{
+	text-align: justify;
+	margin-top: 0px;
+}

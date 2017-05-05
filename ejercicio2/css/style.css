@@ -1,0 +1,40 @@
+#contenedor
+{
+	width: 55%;
+	margin: 0 auto;
+	background: #E8E8E7;
+}
+#imagen
+{
+	width: 100%;
+	margin: 0 auto;
+}
+#division hr
+{
+	width: 100%;
+	height: 10px;
+	border: none;
+	background-color: #8BCC98;
+
+}
+#contenido
+{
+	width: 55%;
+	margin: 0 auto;
+	background: white;
+	font: 105% "Arial";
+	padding-left: 13px;
+	padding-right: 13px;
+}
+#contenido h1
+{
+	font-size: 95%;
+}
+.articulo p
+{ 
+	text-indent: 6%;
+}
+.articulo h1
+{
+	padding-top: 6%;
+}
